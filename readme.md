@@ -19,4 +19,4 @@
 * Finalmente guardamos el resultado y podremos usar la imagen.
 
 ## Creditos
-Este Ejercicio fue realizado en base al canal: https://www.youtube.com/@pildorasdeprogramacion
+Este Ejercicio fue realizado en base al canal: https://www.youtube.com/@CodigoEspinoza
