@@ -2,8 +2,7 @@
 | Imagen original 1         | Imangen Original 2       |
 | :------------------------:|:------------------------:|
 | ![Antes](https://github.com/vhngroup/Fusionar_imagenes/blob/main/static/Original1.jpg)|![Despues](https://github.com/vhngroup/Fusionar_imagenes/blob/main/static/Original2.jpg)|
-| Imagen ejemplo 1          | Imagen ejemplo 2         |
-| :------------------------:|:------------------------:|
+| Imagen procesada 1          | Imagen procesada 2         |
 | ![Antes](https://github.com/vhngroup/Fusionar_imagenes/blob/main/static/Demo1.jpg)|![Despues](https://github.com/vhngroup/Fusionar_imagenes/blob/main/static/imagen_fusionada.jpg)|
 * Script creado en python para remover el fondo de las imagenes.
 * Se ha utilizado la libreria *rembg* con la cual se retira el fondo de la images de formato jpg, png y jpeg.
